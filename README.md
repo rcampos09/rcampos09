@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Rodrigo
 #### I like to learn about Automation and performance testing.
-![I like to learn about Automation and performance testing.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am passionate about the world of testing, I am always looking for new tools to learn. Automation performance testing (love)
 
