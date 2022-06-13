@@ -1,9 +1,6 @@
 
-[![Watch the video](/src/video/Rodrigo_Campos_Tapia.gif)]()
+<img src="https://github.com/rcampos09/rcampos09/blob/master/src/video/Rodrigo_Campos_Tapia.gif?raw=true" width="1012" height="240">
 
-<img src="" alt="drawing" width="200"/>
-
-<h1 align="center">Hi World <img src="https://github.com/rcampos09/rcampos09/blob/master/src/video/Rodrigo_Campos_Tapia.gif"></h1>
 <h1 align="center">Hi World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 <h3 align="center">🌐 Testing Developer ✍️ Technical Lead ✈️ Internet Explorer</h3>
 
@@ -35,7 +32,7 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rcampos09&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=rcampos09&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rcampos09's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcampos09&theme=tokyonight&hide_border=true" alt="rcampos09's github streak" width="48%" >
 
 ---
@@ -81,14 +78,16 @@
 ---
 
 ### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcampos09&layout=compact)](https://github.com/rcampos09/github-readme-stats)
+
 
 ---
 
 <details>
   <summary>🧑‍🔬 This week I did</summary>
   
-  [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
+  [![Rodrigo Campos Tapia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcampos09&theme=github_dark&hide_border=true)]()
 </details>
 
 
