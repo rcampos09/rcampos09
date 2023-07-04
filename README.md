@@ -4,6 +4,10 @@
 <h1 align="center">Hi World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 <h3 align="center">🌐 Testing Developer ✍️ Technical Lead ✈️ Internet Explorer</h3>
 
+
+
+#Hello everyone# I'm a content creator specialized in the field of Testing. You can find me on YouTube, Spotify, and LinkedIn. Although I haven't been in this world for a long time, I walk a path of learning and growth every day. My passion for the world of technology drives me to help new developers and testers improve the quality of their products. I'm committed to providing them with the support they need!"
+
 - 🌱 I’m currently learning **Web3**
 - 👨‍💻 All of my projects are available [here](https://github.com/rcampos09)
 - 📝 I regularly write articles on my [blog](https://medium.com/@rcampos.tapia)
@@ -78,12 +82,6 @@ One Day.....
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcampos09&layout=compact)](https://github.com/rcampos09/github-readme-stats)
 
 ---
-
-<details>
-  <summary>🧑‍🔬 This week I did</summary>
-  
-  [![Rodrigo Campos Tapia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcampos09&theme=github_dark&hide_border=true)]()
-</details>
 
 
 Rodrigo Campos Tapia/rcampos09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
