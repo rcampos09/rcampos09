@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web3**
 - 👨‍💻 All of my projects are available [here](https://github.com/rcampos09)
-- 📝 I regularly write articles on my [blog](hhttps://medium.com/@rcampos.tapia)
+- 📝 I regularly write articles on my [blog](https://medium.com/@rcampos.tapia)
 - 💬 Ask me about **Testing Development**
 - 📫 How to reach me **rcampos.tapia@gmail.com**
 
@@ -14,7 +14,7 @@
 
 [![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=Wordpress&logoColor=white)](https://automationtestingchile.wordpress.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcampostapia)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](hhttps://medium.com/@rcampos.tapia)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rcampos.tapia)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dontester)
 
 ---
